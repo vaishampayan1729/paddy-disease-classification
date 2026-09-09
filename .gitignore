@@ -1,0 +1,23 @@
+# Data
+data/raw/
+data/processed/
+
+# Trained models
+models/
+
+# Results
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
